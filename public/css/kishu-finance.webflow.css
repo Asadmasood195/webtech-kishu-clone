@@ -1633,11 +1633,13 @@ a.w--current {
 }
 
 .display {
-  margin-bottom: 1rem;
+  /* margin-bottom: 1rem; */
   font-size: 4em;
 }
 @media screen and (min-width: 1020px) {
   .display {
+    margin-top: 7rem;
+
     margin-left: 10rem;
   }
 }
