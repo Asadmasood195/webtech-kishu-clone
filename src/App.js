@@ -28,9 +28,9 @@ function App() {
           <div id="google_translate_element" />
         </div>
       </div>
-      <div data-w-id="52e8b043-e2cb-1d7c-5a6f-3c81d4b9a9f2" style={{ display: 'flex', opacity: 1 }} className="page-load-wrapper">
+      {/* <div data-w-id="52e8b043-e2cb-1d7c-5a6f-3c81d4b9a9f2" style={{ display: 'flex', opacity: 1 }} className="page-load-wrapper">
         <img src="images/06-small.gif" loading="lazy" alt='pics' className="image-23" />
-      </div>
+      </div> */}
       <div data-w-id="e3673c46-df59-1f99-93e3-043bb54261e5" className="back-to-top">
         <a href="#home" className="capitals nav-link is--back-to-top">BACK TO TOP</a>
       </div>
@@ -75,7 +75,13 @@ function App() {
           <div className="hero-content-wrapper">
             <div className="_2-col-grid is--hero">
               <div id="w-node-_151b762e-3975-8bd9-09a6-b15858026423-52018772" className="hero-text">
-                <h1 className="display">Little meme.<br />Big dream.</h1>
+
+                <h1 className="display">Breasts
+                <br /> safely
+                <br /> to the
+                <br /> moon</h1>
+
+
                 <p className="is--hero-text">Kishu Inu ($KISHU) is a community-focused, decentralized cryptocurrency with
                 instant rewards for holders. Join the moon mission. 🐶</p>
                 <div className="hero-buttons">
