@@ -132,7 +132,7 @@ function App() {
       <section id="why-kishu" className="why-kishu">
         <div className="container-1800">
           <div className="section-heading is--why-kishu">
-            <div className="accent-large">$Kishu</div>
+            <div className="accent-large">SafeBreast</div>
             <h2 className="h2-what-is-kishu">Why SafeBreast?</h2>
           </div>
           <div data-w-id="87ebf16d-1406-997c-c236-81e39756dba7" className="why-kishu-scrolling-container">
