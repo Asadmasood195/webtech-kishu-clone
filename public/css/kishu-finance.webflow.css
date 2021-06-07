@@ -2726,7 +2726,7 @@ a.w--current {
     width: 60px;
     height: 60px;
     background-color: transparent;
-    background-image: url('../images/logo-kishu-new-white2x-1.png');
+    /* background-image: url('../images/logo-kishu-new-white2x-1.png'); */
     background-position: 0% 50%;
     background-size: contain;
     background-repeat: no-repeat;
@@ -3423,7 +3423,7 @@ a.w--current {
   }
 
   .brand-2 {
-    background-image: url('../images/kishu-logo-circle.png');
+    /* background-image: url('../images/kishu-logo-circle.png'); */
   }
 
   .image-22 {
