@@ -1531,7 +1531,7 @@ a.w--current {
 .section-heading.is--swap {
   position: absolute;
   left: 0%;
-  top: -16%;
+  top: 0%;
   right: 0%;
   bottom: auto;
   z-index: 0;
@@ -2151,7 +2151,7 @@ a.w--current {
 
 .kishu-swap-screenshot {
   position: absolute;
-  left: 0%;
+  left: 60%;
   top: 0%;
   right: 0%;
   bottom: 0%;
