@@ -144,14 +144,14 @@ a.w--current {
   width: 16em;
   height: 3em;
   background-color: transparent;
-  background-image: url('../images/logo-kishu-new-white2x.png');
+  /* background-image: url('../images/logo-kishu-new-white2x.png'); */
   background-position: 0% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .brand.w--current {
-  background-image: url('../images/logo2x.png');
+  /* background-image: url('../images/logo2x.png'); */
 }
 
 .text-link-underline {
@@ -2241,7 +2241,7 @@ a.w--current {
 .logo-white {
   width: 13.59em;
   height: 3.07em;
-  background-image: url('../images/logo2x.png');
+  /* background-image: url('../images/logo2x.png'); */
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
