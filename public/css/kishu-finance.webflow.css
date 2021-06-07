@@ -161,7 +161,8 @@ a.w--current {
   background-color: #fff;
 }
 
-.navbar .cta-button {
+.navbar .cta-button,
+.is--nav-link {
   min-width: 13rem;
   padding: 18px 30px;
   margin-right: 10px;
@@ -1639,8 +1640,10 @@ a.w--current {
 @media screen and (min-width: 1020px) {
   .display {
     margin-top: 7rem;
-
     margin-left: 10rem;
+  }
+  .kishu-swap-screenshot {
+    left: 60% !important;
   }
 }
 

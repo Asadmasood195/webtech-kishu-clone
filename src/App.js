@@ -152,8 +152,9 @@ function App() {
                 <div data-w-id="5c6a93ce-3cd4-9d9a-119c-37c503aa87d6" className="why-kishu-text-item">
                   <h3>Charity Contribution</h3>
                   <p className="_w-414">For every transaction in the SafeBreast network (buy or sell), 2% of the transaction is automatically converted to ethereum and can be donated without needing to sell any coins
+<br />
 
-                  <a href="https://etherscan.io/address/0x71c7656ec7ab88b098defb751b7401b5f6d8976f">https://etherscan.io/address</a>
+                    <a href="https://etherscan.io/address/0x71c7656ec7ab88b098defb751b7401b5f6d8976f">https://etherscan.io/address</a>
                   </p>
                 </div>
 
