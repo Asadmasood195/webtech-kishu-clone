@@ -138,29 +138,45 @@ function App() {
           <div data-w-id="87ebf16d-1406-997c-c236-81e39756dba7" className="why-kishu-scrolling-container">
             <div className="_2-col-grid bottom-padding is--sticky">
               <div id="w-node-_4d01e470-0316-6366-bff1-e94ed46148b2-52018772" className="left-col">
-                <div data-w-id="33305f40-759f-5b1c-d56f-046096d6bea0" className="why-kishu-image">
-                  {/* <img src="images/instant-rewards---background-no-kishu.png" loading="lazy" width={772} sizes="(max-width: 767px) 100vw, (max-width: 991px) 452.9296875px, 46vw" srcSet="images/instant-rewards---background-no-kishu-p-500.png 500w, images/instant-rewards---background-no-kishu-p-800.png 800w, images/instant-rewards---background-no-kishu.png 887w" alt='pics' className="what-is-kishu-img" /> */}
-                  <img src="images/shining-stars-.png" loading="lazy" sizes="(max-width: 767px) 100vw, (max-width: 991px) 452.9296875px, (max-width: 1919px) 46vw, 32vw" srcSet="images/shining-stars--p-500.png 500w, images/shining-stars-.png 618w" alt='pics' className="shining-stars" /><img src="images/02-v1-big.gif" loading="lazy" width={1038} alt='pics' className="image-19" /></div>
+                <div data-w-id="33305f40-759f-5b1c-d56f-046096d6bea0" className="why-kishu-image"><img src="images/instant-rewards---background-no-kishu.png" loading="lazy" width={772} sizes="(max-width: 767px) 100vw, (max-width: 991px) 452.9296875px, 46vw" srcSet="images/instant-rewards---background-no-kishu-p-500.png 500w, images/instant-rewards---background-no-kishu-p-800.png 800w, images/instant-rewards---background-no-kishu.png 887w" alt='pics' className="what-is-kishu-img" /><img src="images/shining-stars-.png" loading="lazy" sizes="(max-width: 767px) 100vw, (max-width: 991px) 452.9296875px, (max-width: 1919px) 46vw, 32vw" srcSet="images/shining-stars--p-500.png 500w, images/shining-stars-.png 618w" alt='pics' className="shining-stars" /><img src="images/02-v1-big.gif" loading="lazy" width={1038} alt='pics' className="image-19" /></div>
                 <div data-w-id="33305f40-759f-5b1c-d56f-046096d6bea2" className="why-kishu-image _2"><img src="images/1.png" loading="lazy" width="440.5" sizes="(max-width: 767px) 100vw, (max-width: 991px) 452.9296875px, 46vw" srcSet="images/1-p-800.png 800w, images/1.png 887w" alt='pics' className="what-is-kishu-img" /></div>
                 <div data-w-id="33305f40-759f-5b1c-d56f-046096d6bea4" className="why-kishu-image _3"><img src="images/3.png" loading="lazy" width="440.5" sizes="(max-width: 767px) 100vw, (max-width: 991px) 452.9296875px, 46vw" srcSet="images/3-p-800.png 800w, images/3.png 887w" alt='pics' className="what-is-kishu-img" /></div>
               </div>
               <div id="w-node-bc539372-19b1-6802-b824-1e8e8666fcb6-52018772" className="right-col">
+
+
+
+
+
+
                 <div data-w-id="5c6a93ce-3cd4-9d9a-119c-37c503aa87d6" className="why-kishu-text-item">
-                  <h3>Instant<br />Rewards</h3>
-                  <p className="_w-414">For every transaction in KISHU's network (buy or sell), 2% of the transaction is
-                  distributed to existing holders. That means you earn $KISHU just by holding it in your wallet.</p>
-                  {/* <a href="#" class="link">Some link here</a> */}
+                  <h3>Charity Contribution</h3>
+                  <p className="_w-414">For every transaction in the SafeBreast network (buy or sell), 2% of the transaction is automatically converted to ethereum and can be donated without needing to sell any coins
+
+                  <a href="https://etherscan.io/address/0x71c7656ec7ab88b098defb751b7401b5f6d8976f">https://etherscan.io/address</a>
+                  </p>
                 </div>
+
+
+
+                {/* <div data-w-id="5c6a93ce-3cd4-9d9a-119c-37c503aa87d6" className="why-kishu-text-item">
+                  <h3>Holder Rewards</h3>
+                  <p className="_w-414">Of all buy or sell transactions in the SafeBreast network 2% will be distributed to existing holders. That means you earn $BREAST just by holding it. Remember to go back and checkour wallet once in a while y?
+We also burned 35% of total supply, so if as this wallet gets rewards the number of circulating coins will decrease.</p>
+                </div> */}
+
+
                 <div id="telegram" data-w-id="cd9039a0-2dd2-5175-0451-9e43e496cf63" className="why-kishu-text-item">
                   <h3>Community <br />Powered</h3>
-                  <p className="_w-414">KISHU is fully decentralized and owned by its fun, vibrant community. We welcome and
-                  embrace diverse perspectives to build KISHU into the best community in crypto.</p>
+                  <h4>Community Driven</h4>
+                  <p className="_w-414">SafeBreast is 100% community driven. Where the full team are holders from the very launch of this token, but we are always expanding and want as many people as possible to get involved The team and community love watching their own wallets and the charity wallet grow .</p>
                   <a href="https://t.me/kishuinucommunity" target="_blank" className="link">Join our Telegram community</a>
                 </div>
                 <div data-w-id="050d4163-cfce-5ea7-6bb8-c24dc4660203" className="why-kishu-text-item">
                   <h3>Secure &amp; Safe</h3>
-                  <p className="_w-414">KISHU has been audited and its LP (Liquidity Pool) tokens have been burnt. That means
-                  zero risk to our investors from potential bad actors.</p>
+                  <h4>Transparent and trusted</h4>
+                  <p className="_w-414">The crypto space sees a lot of mistrust and lack of transparency. SafeBreast strives to be a beacon for trust and transparency in everything we do, be it everything from launching new features to donating to charity
+.</p>
                   <a href="audits/KishuInu-Audit-TechRate.pdf" target="_blank" className="link">See our security audit</a>
                 </div>
               </div>
@@ -234,11 +250,11 @@ function App() {
                     <div className="htb-number"><img src="images/htb-shape-behind-number.png" loading="lazy" alt='pics' className="htb-shape" />
                       <div className="htb-number-text">03</div>
                     </div>
-                    <div className="htb-text">
+                    {/* <div className="htb-text">
                       <h4 className="heading-3">Visit KISHU Swap<br /></h4>
                       <p>You can currently buy $KISHU on <a href="https://exchange.kishu.com/#/swap?inputCurrency=ETH&outputCurrency=0xa2b4c0af19cc16a6cfacce81f192b024d625817d" target="_blank"><strong>KISHU Swap</strong></a>, KISHU's official decentralized exchange
                       where you can swap any ERC20 token.<br /></p>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
                 <div data-w-tab="Tab 4" className="w-tab-pane">
@@ -315,7 +331,7 @@ function App() {
             <div className="accent-large">Swap</div>
           </div>
           <div className="_2-col-grid is--swap">
-            <div id="w-node-_88bfb55d-1e28-bbc5-88fe-35f39f0986a2-52018772" className="kishu-swap---text-container">
+            {/* <div id="w-node-_88bfb55d-1e28-bbc5-88fe-35f39f0986a2-52018772" className="kishu-swap---text-container">
               <h5>DECENTRALIZED EXCHANGE</h5>
               <h2>Kishu Swap</h2>
               <p className="_w-520">KISHU Swap is our official decentralized exchange (DEX). It gives holders the ability to
@@ -323,8 +339,14 @@ function App() {
               in the world. Furthermore, it acts as the foundation from which we will build additional features and
               functionality exclusive to KISHU holders.</p>
               <a href="https://exchange.kishu.com/#/swap?inputCurrency=ETH&outputCurrency=0xa2b4c0af19cc16a6cfacce81f192b024d625817d" target="_blank" className="cta-button red-button w-button">OPEN KISHU SWAP</a>
-            </div>
+            </div> */}
             <div data-w-id="144a6b52-a9d9-1231-1db6-5ffa2cee27cf" className="purple-paw-wrapper"><img src="images/purple-paw-2.png" loading="lazy" width={837} sizes="(max-width: 767px) 100vw, (max-width: 1919px) 46vw, 100vw" srcSet="images/purple-paw-2-p-500.png 500w, images/purple-paw-2-p-800.png 800w, images/purple-paw-2.png 837w" alt='pics' className="purple-paw" /><img src="images/screnshot.png" loading="lazy" alt='pics' className="kishu-swap-screenshot" /></div>
+          </div>
+          <div id="w-node-_88bfb55d-1e28-bbc5-88fe-35f39f0986a2-52018772" className="kishu-swap---text-container">
+            <h5>DECENTRALIZED EXCHANGE</h5>
+            {/* <h2>Kishu Swap</h2> */}
+            <p className="_w-520">SafeX is the official decentralized exchange (DEC) for all SafeBreast Inu holders. It is powered buy Uniswap and allows SafeBreast holders the opportunity to trade any ERC20 token.</p>
+            {/* <a href="https://exchange.kishu.com/#/swap?inputCurrency=ETH&outputCurrency=0xa2b4c0af19cc16a6cfacce81f192b024d625817d" target="_blank" className="cta-button red-button w-button">OPEN KISHU SWAP</a> */}
           </div>
         </div>
       </section>
@@ -351,30 +373,30 @@ function App() {
                     <h6 className="phase-status">PHASE COMPLETE</h6>
                     <h3 className="phase-name">Launch</h3>
                     <div className="phase-activities">
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
-                        <p className="no-bottom-padding">1,000 Holders</p>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding">• Whitepaper - roadmap </p>
                       </div>
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
-                        <p className="no-bottom-padding">Website Launch</p>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding"> • Website launch</p>
                       </div>
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
-                        <p className="no-bottom-padding">CoinGecko Listing</p>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding">• SafeX</p>
                       </div>
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
-                        <p className="no-bottom-padding">2,000 Telegram Members </p>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding">• Techrate - contract audit </p>
                       </div>
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
-                        <p className="no-bottom-padding">Community Marketing Fund</p>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding">• Marketing campaign</p>
                       </div>
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
-                        <p className="no-bottom-padding">Marketing Campaign</p>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding">• Partnership global organization</p>
                       </div>
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
-                        <p className="no-bottom-padding">CoinMarketCap Listing</p>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding">• Community marketing fund</p>
                       </div>
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
+                      {/* <div className="phase-activity-item">
                         <p className="no-bottom-padding">5,000 Holders</p>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </div>
@@ -386,20 +408,28 @@ function App() {
                     <h6 className="phase-status">PHASE COMPLETE</h6>
                     <h3 className="phase-name">Growth</h3>
                     <div className="phase-activities">
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
-                        <p className="no-bottom-padding">5,000 Telegram Members</p>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding">• Pricetracking listings: CoinGecko and CoinMarketCap</p>
                       </div>
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
-                        <p className="no-bottom-padding">Website Redesign</p>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding">• Cex listings</p>
                       </div>
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
-                        <p className="no-bottom-padding">10,000 Holders</p>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding">• Creation of SafeBreast Foundation</p>
                       </div>
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
-                        <p className="no-bottom-padding">10,000 Telegram Members</p>
+                      <div className="phase-activity-item">
+                        {/*  */}
+                        <p className="no-bottom-padding">• First donations</p>
                       </div>
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
-                        <p className="no-bottom-padding">20,000 Holders</p>
+                      <div className="phase-activity-item">
+                        {/*  */}
+                        <p className="no-bottom-padding">• Expand development team</p>
+                      </div>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding">• SafeArt (NFT marketplace)</p>
+                      </div>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding">• Passive income dashboard (BreastSafe Swap)</p>
                       </div>
                     </div>
                   </div>
@@ -412,17 +442,23 @@ function App() {
                     <h6 className="phase-status">PHASE COMPLETE</h6>
                     <h3 className="phase-name">Expansion</h3>
                     <div className="phase-activities">
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
-                        <p className="no-bottom-padding">KISHU Swap (Decentralize Exchange)<br /></p>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding">• DAO governance structure for SafeBreast Foundation <br /></p>
                       </div>
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
-                        <p className="no-bottom-padding">Initial CEX Listings (Hotbit, Bilaxy, CoinTiger)<br /></p>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding">• Celebrity foundation member(s) <br /></p>
                       </div>
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
-                        <p className="no-bottom-padding">15,000 Telegram Members<br /></p>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding"> • One million dollars donated to breast cancer awareness<br /></p>
                       </div>
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
-                        <p className="no-bottom-padding">30,000 Holders<br /></p>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding"> • SafeBreast impact wallet<br /></p>
+                      </div>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding"> • Business model for sustainable development<br /></p>
+                      </div>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding">  • Expand marketing + management team<br /></p>
                       </div>
                     </div>
                   </div>
@@ -435,27 +471,30 @@ function App() {
                     <h6 className="phase-status in-progress">IN PROGRESS</h6>
                     <h3 className="phase-name">Utility<br /></h3>
                     <div className="phase-activities">
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
-                        <p className="no-bottom-padding">100,000 Holders<br /></p>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding">• SafeBreast store (merchandise)<br /></p>
                       </div>
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark off" />
-                        <p className="no-bottom-padding">KISHU Crate (NFT Marketplace)<br /></p>
+                      <div className="phase-activity-item">
+                        {/* <img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark off" /> */}
+                        <p className="no-bottom-padding">• Audit of additional smart contracts <br />
+                        </p>
                       </div>
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
-                        <p className="no-bottom-padding">KISHU Paw Print (Wallet and Passive Income Tracker)<br /></p>
+                      <div className="phase-activity-item">
+                        <p className="no-bottom-padding">• Ten million dollars donated to breast cancer awareness
+<br /></p>
                       </div>
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark off" />
+                      {/* <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark off" />
                         <p className="no-bottom-padding">KISHU sWag (Merchandise Store)<br /></p>
                       </div>
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
+                      <div className="phase-activity-item">
                         <p className="no-bottom-padding">More CEX Listings<br /></p>
                       </div>
-                      <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark" />
+                      <div className="phase-activity-item">
                         <p className="no-bottom-padding">50,000 Telegram Members<br /></p>
                       </div>
                       <div className="phase-activity-item"><img src="images/checkmark-green.svg" loading="lazy" alt='pics' className="green-checkmark off" />
                         <p className="no-bottom-padding">Influencer Marketing Partnerships<br /></p>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </div>
@@ -474,8 +513,8 @@ function App() {
             </div>
             <div className="founding-team-text-wrapper">
               <h2 className="h2-founding-team">Founding<br />Team</h2>
-              <p className="_w-660">KISHU was founded by a 2-person team that has since expanded into 20+ community managers
-              with expertise in marketing and product development. Feel free to say "Hi!" on Telegram.</p>
+              <p className="_w-660">
+                SafeBreast is a community driven project, founded by Christian and his dog. Feel free to reach out to Christian or community lead and they will happily share info about themselves. Also find links to profiles in the white paper </p>
               <div className="founding-members">
                 <div className="founding-member-item">
                   <div className="founding-member-image-container"><img src="images/object12x.png" loading="lazy" alt='pics' className="image-16" /></div>
