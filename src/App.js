@@ -5,11 +5,11 @@ function App() {
   const [apiData, setApiData] = useState()
 
   console.log(apiData)
-  const fetchApi = async () => {
-    fetch('/https://kishu-api.herokuapp.com/stats')
-      .then(response => response.json())
-      .then(data => setApiData(data))
-  }
+  // const fetchApi = async () => {
+  //   fetch('/https://kishu-api.herokuapp.com/stats')
+  //     .then(response => response.json())
+  //     .then(data => setApiData(data))
+  // }
   const run = () => {
     let head = document.getElementsByTagName('head')[0]
     let script = document.createElement('script')
@@ -20,17 +20,17 @@ function App() {
   }
   useEffect(() => {
     run()
-    fetchApi()
+    // fetchApi()
   }, [])
 
 
   const [scroll, setScroll] = useState()
-  useEffect(() => {
-    window.addEventListener("scroll", () => {
-      setScroll(window.scrollY)
-    })
-  }, [])
-  console.log(scroll)
+  // useEffect(() => {
+  //   window.addEventListener("scroll", () => {
+  //     setScroll(window.scrollY)
+  //   })
+  // }, [])
+  // console.log(scroll)
   return (
     <>
       <div className="kishu-live-ticker w-embed w-script">
@@ -177,7 +177,7 @@ function App() {
                   <h3>Charity <br />Contribution</h3>
                   <p className="_w-414">For every transaction in the SafeBreast network (buy or sell), 2% of the transaction is automatically converted to ethereum and can be donated without needing to sell any coins
                   
-                  <a href="https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca" class="link">https://etherscan.io/token/0x51491077 <br /> 1af9ca656af840dff83e8264ecf986ca</a>
+                  <a href="https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca" className="link">https://etherscan.io/token/0x51491077 <br /> 1af9ca656af840dff83e8264ecf986ca</a>
                    </p>
                 </div>
 
