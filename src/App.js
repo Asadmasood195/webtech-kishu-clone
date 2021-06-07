@@ -15,7 +15,7 @@ function App() {
     let script = document.createElement('script')
     script.async = 1
     script.src = "js/webflow.js"
-    script.crossorigin = true
+    // script.crossorigin = true
     head.appendChild(script)
   }
   useEffect(() => {
